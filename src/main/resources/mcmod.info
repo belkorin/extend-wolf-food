@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extend_wolf_food",
+  "name": "Extend Wolf Food",
+  "description": "Makes wolf food configurable",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Belkorin"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
